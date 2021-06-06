@@ -36,4 +36,4 @@ last_modified_at: 2021-06-06T18:02:00
 20. **de facto:** in fact, or in effect, whether by right or not (p. 2 line 74).
 21. **brevity:** shortness of time (e.g for brevity: 간결함을 위해) (p. 2 line 75).
 22. **being:** existence, ~가 되는, ~인, ~가 있는 (p. 2 line 76).
-23. **schematic:** (of a diagram or other represntation) symbolic and simplified (p. 2 line 1).
+23. **schematic:** (of a diagram or other represntation) symbolic and simplified (p. 3 line 1).
