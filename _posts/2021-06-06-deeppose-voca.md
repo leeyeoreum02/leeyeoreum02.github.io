@@ -9,7 +9,7 @@ tags:
     - human pose
     - deeppose
     - paper
-last_modified_at: 2021-06-06T18:02:00
+last_modified_at: 2021-06-10T12:48:00
 ---
 
 1. **holistic:** dealing with or treating the whole of something or someone and not just a part (p. 1 line 14).
@@ -27,6 +27,7 @@ last_modified_at: 2021-06-06T18:02:00
 11. **tractable:** (of a person) easy to control or influence (p. 2 line 15).
 12. **enrich:** improve or enhance the quality or value of (p. 2 line 22).
 13. **exemplar:** a person or thing serving as a typical example or excellent model (p. 2 line 37).
+    + **serve:** perform duties or services for (another person or an organization).
 14. **embed:** fix (an object) firmly and deeply in a surrounding mass (p. 2 line 50).
 15. **contrastive:** tending to contrast (p. 2 line 55).
 16. **coordinate:** (수학적) 좌표 (p. 2, line 59).
@@ -37,3 +38,5 @@ last_modified_at: 2021-06-06T18:02:00
 21. **brevity:** shortness of time (e.g for brevity: 간결함을 위해) (p. 2 line 75).
 22. **being:** existence, ~가 되는, ~인, ~가 있는 (p. 2 line 76).
 23. **schematic:** (of a diagram or other represntation) symbolic and simplified (p. 3 line 1).
+24. **in a nutshell:** 간단히 말해서 (p. 3 line 4).
+25. **rectify:** put right, correct (p. 3 line 11).
